@@ -38,7 +38,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados:
 ## ⚡ Configuración del Proyecto
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/curso-apis-rest-as400.git
+   git clone https://github.com/Alvarodevas400/BANK-API-Restful.git
    cd curso-apis-rest-as400
    ```
 2. **Configura las propiedades de conexión con AS400** en `as400Connection.properties`.
